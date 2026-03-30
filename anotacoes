@@ -1,0 +1,7 @@
+scanf variables
+- int = %d or %i
+- flat = %f or %F
+- double = %lf
+- char = %c for single character and %s for strings
+
+in output of datas, used "&" before variable name
